@@ -25,7 +25,8 @@ LSTM的输入为200维的，中文维基百科语料库训练出的Word2Vec词�
 
 ## 3.Using without Training
 ### `cyberpunc.py` & `cyberpunc_notebook.ipynb`
-直接运行即可，已开源预训练结束的词向量与LSTM state_dict，注意修改词向量(.model)与模型权重(.pkl)的位置！
+直接运行即可，已开源LSTM state_dict，注意修改词向量(.model)与模型权重(.pkl)的位置！
+> （词向量文件155.9M，上传不了，有人可以提供解决方案吗）
 
 
 
